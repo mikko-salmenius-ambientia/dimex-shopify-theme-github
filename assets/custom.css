@@ -1,0 +1,15 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Helvetica-Neue-Heavy' !important;
+}
+
+small {
+  font-size: 14px;
+}
+
+.header__menu-item span {
+  font-weight: bold;
+}
+
+.cart-remove-button {
+  gap: 0.5em;
+}
